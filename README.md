@@ -2,15 +2,9 @@
 <h1>Non-EEG_Clinical_Annotator</h1>
 <h3>Python scripts to guide clinicians in annotating non-EEG acceleration data for real-world seizure detection. As seen in the paper titled "Enhanced Non-EEG Multimodal Seizure Detection: A Real-World Model for Identifying Generalised Seizures Across The Ictal State"</h3>
 
-[Jamie Pordoy](https://github.com/Unrealluver)<sup>1</sup> \*
-
-<sup>1</sup>University of West London<sup>2</sup>Open Seizure Detector<sup>3</sup> Pleotek LTD
-
 Corresponding Author: Dr. Jamie Pordoy <sup>jamiepordoy@hotmail.com</sup>
 
-TechrXiv Preprint ([TechrXiv 1095532](https://www.techrxiv.org/users/692829/articles/1095532-enhanced-non-eeg-multimodal-seizure-detection-a-real-world-model-for-identifying-generalised-seizures-across-the-ictal-state)), AMBER Model (https://github.com/jpordoy/AMBER)
-
-
+TechrXiv Preprint ([TechrXiv 1095532](https://www.techrxiv.org/users/692829/articles/1095532-enhanced-non-eeg-multimodal-seizure-detection-a-real-world-model-for-identifying-generalised-seizures-across-the-ictal-state))
 </div>
 
 
